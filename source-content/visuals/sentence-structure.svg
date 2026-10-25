@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="260" viewBox="0 0 820 260">
+  <rect width="820" height="260" fill="#f4f9ff"/>
+  <text x="410" y="40" font-size="26" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Sentence Structure</text>
+  <rect x="120" y="80" width="120" height="110" rx="16" fill="#dbeeff" stroke="#173a5f" stroke-width="2"/>
+  <text x="180" y="140" text-anchor="middle" font-size="26" font-family="Segoe UI, Arial" fill="#173a5f">Subject</text>
+  <path d="M240 135 L330 135" stroke="#173a5f" stroke-width="4"/>
+  <path d="M330 135 L310 125 L310 145 Z" fill="#173a5f"/>
+  <rect x="330" y="80" width="160" height="110" rx="16" fill="#f7d7a9" stroke="#a15e20" stroke-width="2"/>
+  <text x="410" y="140" text-anchor="middle" font-size="24" font-family="Segoe UI, Arial" fill="#7a4313">Verb</text>
+  <path d="M490 135 L560 135" stroke="#173a5f" stroke-width="4"/>
+  <path d="M560 135 L540 125 L540 145 Z" fill="#173a5f"/>
+  <rect x="560" y="80" width="150" height="110" rx="16" fill="#d6f2d9" stroke="#2b7d42" stroke-width="2"/>
+  <text x="635" y="140" text-anchor="middle" font-size="24" font-family="Segoe UI, Arial" fill="#235b31">Object</text>
+  <text x="410" y="240" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#34546d">The child reads a story.</text>
+</svg>

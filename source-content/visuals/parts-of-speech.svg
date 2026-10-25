@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300">
+  <rect width="860" height="300" fill="#f5faff"/>
+  <text x="430" y="35" font-size="26" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Parts of Speech</text>
+  <rect x="40" y="70" width="120" height="90" rx="12" fill="#d7ebff" stroke="#173a5f" stroke-width="2"/>
+  <text x="100" y="125" text-anchor="middle" font-size="21" font-family="Segoe UI, Arial" fill="#173a5f">Noun</text>
+  <rect x="190" y="70" width="120" height="90" rx="12" fill="#dff5de" stroke="#2b7d42" stroke-width="2"/>
+  <text x="250" y="125" text-anchor="middle" font-size="21" font-family="Segoe UI, Arial" fill="#2b7d42">Pronoun</text>
+  <rect x="340" y="70" width="120" height="90" rx="12" fill="#fdeec8" stroke="#ab6e1d" stroke-width="2"/>
+  <text x="400" y="125" text-anchor="middle" font-size="21" font-family="Segoe UI, Arial" fill="#7a4d14">Verb</text>
+  <rect x="490" y="70" width="120" height="90" rx="12" fill="#f8d8d4" stroke="#a14a45" stroke-width="2"/>
+  <text x="550" y="125" text-anchor="middle" font-size="21" font-family="Segoe UI, Arial" fill="#8a3d33">Adjective</text>
+  <rect x="640" y="70" width="120" height="90" rx="12" fill="#d9d9f7" stroke="#514cab" stroke-width="2"/>
+  <text x="700" y="125" text-anchor="middle" font-size="21" font-family="Segoe UI, Arial" fill="#433d8a">Adverb</text>
+  <text x="430" y="240" font-size="20" text-anchor="middle" font-family="Segoe UI, Arial" fill="#334d64">Examples: book, she, writes, happy, quickly</text>
+</svg>

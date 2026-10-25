@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" fill="#f4f9ff"/>
+  <text x="450" y="35" font-size="28" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Modal Comparison</text>
+  <rect x="60" y="80" width="180" height="150" rx="18" fill="#dfeefa" stroke="#173a5f" stroke-width="2"/>
+  <text x="150" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#173a5f">can</text>
+  <text x="150" y="150" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#173a5f">ability</text>
+  <rect x="260" y="80" width="180" height="150" rx="18" fill="#d9f0d7" stroke="#2b7d42" stroke-width="2"/>
+  <text x="350" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2b7d42">must</text>
+  <text x="350" y="150" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2b7d42">obligation</text>
+  <rect x="460" y="80" width="180" height="150" rx="18" fill="#fbe8cb" stroke="#b26a1d" stroke-width="2"/>
+  <text x="550" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#b26a1d">should</text>
+  <text x="550" y="150" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#b26a1d">advice</text>
+  <rect x="660" y="80" width="180" height="150" rx="18" fill="#e7dcff" stroke="#5d4bb0" stroke-width="2"/>
+  <text x="750" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#5d4bb0">may</text>
+  <text x="750" y="150" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#5d4bb0">permission</text>
+</svg>

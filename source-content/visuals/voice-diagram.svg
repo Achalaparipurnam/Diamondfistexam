@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" fill="#f3fafe"/>
+  <text x="450" y="35" font-size="28" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Active and Passive Voice</text>
+  <rect x="100" y="100" width="220" height="110" rx="18" fill="#dff0ff" stroke="#173a5f" stroke-width="2"/>
+  <text x="210" y="145" text-anchor="middle" font-size="20" font-family="Segoe UI, Arial" fill="#173a5f">Active</text>
+  <text x="210" y="175" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#173a5f">The boy kicked the ball.</text>
+  <path d="M320 155 H470" stroke="#173a5f" stroke-width="4"/>
+  <path d="M470 155 L450 145 L450 165 Z" fill="#173a5f"/>
+  <rect x="470" y="100" width="320" height="110" rx="18" fill="#dff5e7" stroke="#2b7d42" stroke-width="2"/>
+  <text x="630" y="145" text-anchor="middle" font-size="20" font-family="Segoe UI, Arial" fill="#2b7d42">Passive</text>
+  <text x="630" y="175" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2b7d42">The ball was kicked by the boy.</text>
+</svg>

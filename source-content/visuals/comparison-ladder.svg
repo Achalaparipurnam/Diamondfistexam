@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" fill="#f9fbff"/>
+  <text x="450" y="35" font-size="28" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Comparison Ladder</text>
+  <line x1="120" y1="180" x2="780" y2="180" stroke="#173a5f" stroke-width="4"/>
+  <circle cx="120" cy="180" r="8" fill="#173a5f"/>
+  <circle cx="430" cy="180" r="8" fill="#173a5f"/>
+  <circle cx="780" cy="180" r="8" fill="#173a5f"/>
+  <text x="120" y="160" font-size="20" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">small</text>
+  <text x="430" y="160" font-size="20" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">smaller</text>
+  <text x="780" y="160" font-size="20" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">smallest</text>
+</svg>

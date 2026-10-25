@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+  <rect width="900" height="340" fill="#f4f9ff"/>
+  <text x="450" y="35" font-size="28" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Tense Timeline</text>
+  <line x1="80" y1="180" x2="820" y2="180" stroke="#173a5f" stroke-width="4"/>
+  <circle cx="80" cy="180" r="7" fill="#173a5f"/>
+  <circle cx="820" cy="180" r="7" fill="#173a5f"/>
+  <text x="80" y="210" font-size="22" font-family="Segoe UI, Arial" fill="#173a5f">Past</text>
+  <text x="420" y="210" font-size="22" font-family="Segoe UI, Arial" fill="#173a5f">Present</text>
+  <text x="760" y="210" font-size="22" font-family="Segoe UI, Arial" fill="#173a5f">Future</text>
+  <rect x="140" y="90" width="140" height="50" rx="12" fill="#dfeefb" stroke="#173a5f" stroke-width="2"/>
+  <text x="210" y="122" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#173a5f">I worked</text>
+  <rect x="370" y="90" width="160" height="50" rx="12" fill="#d8f0dc" stroke="#2a7d46" stroke-width="2"/>
+  <text x="450" y="122" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2a7d46">I work</text>
+  <rect x="610" y="90" width="180" height="50" rx="12" fill="#f7e4c7" stroke="#b26a1d" stroke-width="2"/>
+  <text x="700" y="122" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#9c5721">I will work</text>
+</svg>

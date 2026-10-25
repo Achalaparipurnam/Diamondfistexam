@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <rect width="900" height="320" fill="#f3f9fd"/>
+  <text x="450" y="38" font-size="28" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Article Decision Chart</text>
+  <rect x="70" y="90" width="180" height="120" rx="18" fill="#d4ebff" stroke="#173a5f" stroke-width="2"/>
+  <text x="160" y="135" text-anchor="middle" font-size="22" font-family="Segoe UI, Arial" fill="#173a5f">Is the noun</text>
+  <text x="160" y="170" text-anchor="middle" font-size="22" font-family="Segoe UI, Arial" fill="#173a5f">specific?</text>
+  <path d="M250 150 L330 150" stroke="#173a5f" stroke-width="4"/>
+  <path d="M330 150 L310 140 L310 160 Z" fill="#173a5f"/>
+  <rect x="330" y="60" width="200" height="80" rx="14" fill="#dfeecb" stroke="#3e7a31" stroke-width="2"/>
+  <text x="430" y="103" text-anchor="middle" font-size="22" font-family="Segoe UI, Arial" fill="#2a5d2f">Yes → the</text>
+  <text x="430" y="128" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2a5d2f">the river, the book</text>
+  <rect x="330" y="170" width="200" height="80" rx="14" fill="#fde7d3" stroke="#a75d25" stroke-width="2"/>
+  <text x="430" y="213" text-anchor="middle" font-size="22" font-family="Segoe UI, Arial" fill="#8b4d15">No → a/an</text>
+  <text x="430" y="238" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#8b4d15">a book, an apple</text>
+  <rect x="600" y="90" width="200" height="120" rx="18" fill="#dfe5ff" stroke="#4c54b7" stroke-width="2"/>
+  <text x="700" y="135" text-anchor="middle" font-size="22" font-family="Segoe UI, Arial" fill="#4043a3">Zero article</text>
+  <text x="700" y="170" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#4043a3">school, lunch,</text>
+  <text x="700" y="195" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#4043a3">home</text>
+</svg>

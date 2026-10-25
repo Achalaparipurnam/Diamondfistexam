@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260">
+  <rect width="920" height="260" fill="#f5faff"/>
+  <text x="460" y="32" font-size="27" text-anchor="middle" font-family="Segoe UI, Arial" fill="#173a5f">Exam Preparation Roadmap</text>
+  <rect x="40" y="80" width="150" height="110" rx="16" fill="#dfeefa" stroke="#173a5f" stroke-width="2"/>
+  <text x="115" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#173a5f">Week 1</text>
+  <text x="115" y="150" text-anchor="middle" font-size="16" font-family="Segoe UI, Arial" fill="#173a5f">Basics</text>
+  <path d="M190 135 H270" stroke="#173a5f" stroke-width="4"/>
+  <path d="M270 135 L250 125 L250 145 Z" fill="#173a5f"/>
+  <rect x="270" y="80" width="150" height="110" rx="16" fill="#dff5e7" stroke="#2b7d42" stroke-width="2"/>
+  <text x="345" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#2b7d42">Week 2</text>
+  <text x="345" y="150" text-anchor="middle" font-size="16" font-family="Segoe UI, Arial" fill="#2b7d42">Practice</text>
+  <path d="M420 135 H500" stroke="#173a5f" stroke-width="4"/>
+  <path d="M500 135 L480 125 L480 145 Z" fill="#173a5f"/>
+  <rect x="500" y="80" width="150" height="110" rx="16" fill="#fbe8cb" stroke="#b26a1d" stroke-width="2"/>
+  <text x="575" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#b26a1d">Week 3</text>
+  <text x="575" y="150" text-anchor="middle" font-size="16" font-family="Segoe UI, Arial" fill="#b26a1d">Mock tests</text>
+  <path d="M650 135 H730" stroke="#173a5f" stroke-width="4"/>
+  <path d="M730 135 L710 125 L710 145 Z" fill="#173a5f"/>
+  <rect x="730" y="80" width="150" height="110" rx="16" fill="#e7dcff" stroke="#5d4bb0" stroke-width="2"/>
+  <text x="805" y="120" text-anchor="middle" font-size="18" font-family="Segoe UI, Arial" fill="#5d4bb0">Week 4</text>
+  <text x="805" y="150" text-anchor="middle" font-size="16" font-family="Segoe UI, Arial" fill="#5d4bb0">Revision</text>
+</svg>
